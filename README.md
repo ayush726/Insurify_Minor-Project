@@ -61,4 +61,14 @@ The system helps insurance providers:
 - Automate risk-based premium recommendations
 
 ## 📁 Project Structure
+<pre>
+InsuriFy/
+├── data/              # Raw and cleaned datasets
+├── notebooks/         # Jupyter notebooks for EDA and modeling
+├── models/            # Saved ML models
+├── utils/             # Helper scripts (e.g., preprocessing, metrics)
+├── main.py            # Main execution script
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
+</pre>
 
